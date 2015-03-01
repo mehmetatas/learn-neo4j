@@ -1,0 +1,8 @@
+E:\github\mehmetatas\learn-neo4j\learn-neo4j\bin\Debug\learn-neo4j.exe.config
+E:\github\mehmetatas\learn-neo4j\learn-neo4j\bin\Debug\learn-neo4j.exe
+E:\github\mehmetatas\learn-neo4j\learn-neo4j\bin\Debug\learn-neo4j.pdb
+E:\github\mehmetatas\learn-neo4j\learn-neo4j\obj\Debug\learn-neo4j.exe
+E:\github\mehmetatas\learn-neo4j\learn-neo4j\obj\Debug\learn-neo4j.pdb
+E:\github\mehmetatas\learn-neo4j\learn-neo4j\bin\Debug\Newtonsoft.Json.dll
+E:\github\mehmetatas\learn-neo4j\learn-neo4j\bin\Debug\Newtonsoft.Json.xml
+E:\github\mehmetatas\learn-neo4j\learn-neo4j\obj\Debug\learn-neo4j.csprojResolveAssemblyReference.cache
